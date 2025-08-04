@@ -20,7 +20,7 @@ Note: Referenced figures 8B and 9A are available upon request.
     * osmnx, pandas, numpy, matplotlib, geopandas, networkx, shapely, warnings
     * Superblockify (Open Source, easy to download)
 
-2. To run this analysis, open the `.ipynb` file in Jupyter Notebook (or another Jupyter-compatible environment) and execute the cells in order.
+2. Open the `.ipynb` file in Jupyter Notebook (or another Jupyter-compatible environment) and execute the cells in order.
 
     This will:
 
